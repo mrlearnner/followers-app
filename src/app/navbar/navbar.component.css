@@ -1,0 +1,13 @@
+
+
+nav .navbar-nav li a{
+    color: #ec0a0a !important;
+    }
+
+    /* .navbar-light .navbar-nav .nav-link {
+        color: rgb(249, 244, 244);
+    } */
+
+    .active {        
+        background-color: rgb(122, 170, 243);
+    }
